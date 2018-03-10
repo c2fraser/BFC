@@ -50,7 +50,7 @@ permalink: /gallery/
 			<div class="col s12 m6 l6">
 			<div class="row center-align">
 			<h6>Gallery 4</h6>
-			<img src="/images/gallery/large.jpg" class="responsive-img"></div>
+			<img src="{{ site.baseurl }}/images/gallery/large.jpg" class="responsive-img"></div>
 			<div class="row center-align">
 				<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
 				<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
@@ -62,4 +62,4 @@ permalink: /gallery/
 <div class="container"><hr class="style17"></div>
 <BR><BR>
 
-<script src="/js/lightbox-plus-jquery.min.js"></script>
+<script src="{{ site.baseurl }}/js/lightbox-plus-jquery.min.js"></script>
