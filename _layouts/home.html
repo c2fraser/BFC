@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div class="hero-section">
+  <div class="hero-section-text">
+    <h1>Bryan Fraser Contracting</h1>
+    <h5>{{content}}</h5>
+  </div>
+</div>
+  <div class="container">
+    <div class="section">
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><img src="assets/const.jpg" alt="" class="circle responsive-img"></h2>
+            <h5 class="center">New Construction</h5>
+
+            <p class="light">Have ideas for your dream home? We work with our valued customers to bring their dreams to life.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><img src="assets/reno.jpg" alt="" class="circle responsive-img"></h2>
+            <h5 class="center">Renovations</h5>
+
+            <p class="light">Time to spruce up the place?. New kitchen or bathroom? No problem! No cats though. We dont like those</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><img src="assets/kubota.jpg" alt="" class="circle responsive-img"></h2>
+            <h5 class="center">Landscaping</h5>
+
+            <p class="light">Text text text text text text text text text text text text text text text text text text text text text </p>
+          </div>
+        </div>
+        <span><a class="right" href="/services/index.html">More...</a></span><BR>
+      </div>
+
+    </div>
+
+    </div>
+    <div style="background: #ddd">
+    <div class="container last-post">
+    <section>
+        <h5>Latest News</h5>
+        <ul class="collection">
+          {% assign count = 0 %}
+     {% for post in site.posts limit:3 %}
+       {% if post.show %}
+           {% if count < 3 %}
+           <!-- display post -->
+           {% increment count %}
+           {% endif %}
+     {% endif %}
+        <li class="collection-item avatar">
+          {% assign date_format = site.minima.date_format | default: "%m/%d" %}
+          <div class="date-post">{{ post.date | date: date_format }}</div>
+          <span class="title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
+          <p>
+             {{ post.content | truncatewords: 10 }}
+          </p>
+          <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons">navigate_next</i></a>
+        </li>
+        {% endfor %}
+        </ul>
+        <ul><a class="right" href="/news/index.html">More News</a></ul><BR>
+    </section>
+    </div>
+</div>
+
+  </div>

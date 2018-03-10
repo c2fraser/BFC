@@ -1,0 +1,23 @@
+title: Bryan Fraser Contracting
+author: Bryan Fraser Contracting
+email: bryanfrasercontracting@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Bryan Fraser Contracting
+google_maps_javascript_api_key: "AIzaSyCgO05oTCCK6h3xw8BqZgQjqg5BU1pPn-s"
+
+baseurl: "BFC"
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-paginate-v2
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+sort_reverse: true

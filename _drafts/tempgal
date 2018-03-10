@@ -1,0 +1,31 @@
+---
+layout: page
+title: Gallery
+permalink: /gallery/
+---
+	<h3>Photo Gallery</h3><br>
+	<img src="/images/gallery/large.jpg" class="responsive-img">
+		Example Gallery<br>
+		<img class="example-image" src="/images/gallery/gal-001.jpg" alt=""/><br>
+		<a class="example-image-link" href="/images/gallery/gal-002.jpg" data-lightbox="test01" data-title="Test02"><img class="example-image" src="/images/gallery/gal-002_t.jpg" alt=""/></a> <a class="example-image-link" href="/images/gallery/gal-003.jpg" data-lightbox="test01" data-title="Test03"><img class="example-image" src="/images/gallery/gal-003_t.jpg" alt=""/></a>
+		<a class="example-image-link" href="/images/gallery/gal-004.jpg" data-lightbox="test01" data-title="Test04"><img class="example-image" src="/images/gallery/gal-004_t.jpg" alt=""/></a>
+		<a class="example-image-link" href="/images/gallery/gal-005.jpg" data-lightbox="test01" data-title="Test05"><img class="example-image" src="/images/gallery/gal-005_t.jpg" alt=""/></a>
+		<a class="example-image-link" href="/images/gallery/gal-006.jpg" data-lightbox="test01" data-title="Test06"><img class="example-image" src="/images/gallery/gal-006_t.jpg" alt=""/></a>
+		<a class="example-image-link" href="/images/gallery/gal-007.jpg" data-lightbox="test01" data-title="Test07"><img class="example-image" src="/images/gallery/gal-007_t.jpg" alt=""/></a>
+</section>
+
+<script src="/js/lightbox-plus-jquery.min.js"></script>
+
+
+
+
+ <div class="col s6">
+		<img src="/images/gallery/large.jpg" class="responsive-img">
+	<div class="row">
+		<div class="col s12 l3"><img src="/images/gallery/small.jpg" class="responsive-img"></div>
+		<div class="col s12 l3"><img src="/images/gallery/small.jpg" class="responsive-img"></div>
+		<div class="col s12 l3"><img src="/images/gallery/small.jpg" class="responsive-img"></div>
+		<div class="col s12 l3"><img src="/images/gallery/small.jpg" class="responsive-img"></div>
+	</div>
+ </div>
+</div>
