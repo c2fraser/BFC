@@ -5,7 +5,7 @@ permalink: /news/
 pagination:
   enabled: true
 ---
-<div class="container"
+<div class="container">
 <div id="index">
 <h4>News</h4><BR>
 {% for post in site.posts %}
