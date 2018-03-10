@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-permalink: /Services/
+permalink: /services/
 ---
 <div class="container">
 <h4> What we do</h4><br>
