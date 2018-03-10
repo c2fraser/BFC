@@ -5,7 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Bryan Fraser Contracting
 google_maps_javascript_api_key: "AIzaSyCgO05oTCCK6h3xw8BqZgQjqg5BU1pPn-s"
 
-baseurl: "BFC"
+baseurl: "/BFC"
+url: "https://c2fraser.github.io/"
 sass:
     style: compressed
 
