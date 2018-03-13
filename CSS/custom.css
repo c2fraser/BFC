@@ -64,3 +64,22 @@ hr.style17 {
   margin-left: 0px;
   margin-bottom: 10px;
 }
+img.gal-l {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 545px;
+
+}
+img.gal-l:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+img.gal-s {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 126px;
+}
+img.gal-s:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
