@@ -5,7 +5,7 @@ permalink: /gallery/
 ---
 <div class="row center-align container">
 <H4 class="left">Some Recent Work by Bryan Fraser Contracting</H4><br>
-<div class="col s12 m6 l6">
+<div class="col s12 m6 l6" style="max-width: 575px;">
 <div class="row center-align" style="padding: 0px 10px;">
 <h6>Retaining Wall and Stonework</h6>
 <a href="{{ site.baseurl }}/images/gallery/gal-003.jpg" data-lightbox="Stone" data-title="Retaining Wall and Stonework"><img src="{{ site.baseurl }}/images/gallery/gal-003.jpg" class="responsive-img gal-l"></a></div>
@@ -18,7 +18,7 @@ permalink: /gallery/
 	<p class="left-align">doing a lot of work with stones and rocks, we can do many fun things bla bla bla bla bla bla bla. Doing a lot of work with stones and rocks, we can do many fun things bla bla bla bla bla bla bla.</p>
 	</div>
 
-	<div class="col s12 m6 l6">
+	<div class="col s12 m6 l6" style="max-width: 575px;">
 	<div class="row center-align" style="padding: 0px 10px;">
 	<h6>Foundation and Framing</h6>
 	<a href="{{ site.baseurl }}/images/gallery/007.jpg" data-lightbox="Foundation" data-title="Foundation and Framing"><img src="{{ site.baseurl }}/images/gallery/007.jpg" class="responsive-img gal-l"></a></div>
@@ -31,35 +31,5 @@ permalink: /gallery/
 		</div>
 		</div>
 </div>
-<div class="container"><hr class="style17"></div>
-<BR><BR>
-<div class="row center-align container">
-
-		<div class="col s12 m6 l6">
-		<div class="row center-align">
-		<h6>Gallery 3</h6>
-		<img src="{{ site.baseurl }}/images/gallery/large.jpg" class="responsive-img"></div>
-		<div class="row center-align">
-			<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
-			<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
-			<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
-			<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
-			</div>
-			</div>
-
-			<div class="col s12 m6 l6">
-			<div class="row center-align">
-			<h6>Gallery 4</h6>
-			<img src="{{ site.baseurl }}/images/gallery/large.jpg" class="responsive-img"></div>
-			<div class="row center-align">
-				<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
-				<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
-				<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
-				<div class="col s3"><img src="{{ site.baseurl }}/images/gallery/small.jpg" class="responsive-img"></div>
-				</div>
-				</div>			
-</div>
-<div class="container"><hr class="style17"></div>
-<BR><BR>
 
 <script src="{{ site.baseurl }}/js/lightbox-plus-jquery.min.js"></script>
