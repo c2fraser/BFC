@@ -44,7 +44,7 @@ h1.page-title {
     overflow: hidden;
     left: 10px;
     display: inline-block;
-    padding: 8px 0;
+    padding: 5px 0;
     vertical-align: middle;
     background: #212121;
     color: #fff;
@@ -55,8 +55,10 @@ h1.page-title {
 }
 .post-header h1.post-title {
     color: #212121;
-    font-size: 2.8em;
+    font-size: 1.8em;
     font-weight: 800;
+    padding: 0px;
+    margin: 0px;
 }
 .post-header time {
     color: #cacaca;

@@ -4,7 +4,6 @@ title: Gallery
 permalink: /gallery/
 ---
 <div class="row center-align container">
-<H4 class="left">Some Recent Work by Bryan Fraser Contracting</H4><br>
 <div class="col s12 m6 l6" style="max-width: 575px;">
 <div class="row center-align" style="padding: 0px 10px;">
 <h6>Retaining Wall and Stonework</h6>

@@ -33,8 +33,11 @@
 }
 .list-inline > li {
   display: inline-block;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  margin-bottom: 5px;
+  font-size: 1.25rem;
 }
 .list-inline-footer {
   padding: 0;
