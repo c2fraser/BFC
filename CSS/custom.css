@@ -13,20 +13,19 @@
       -ms-flex-pack: center;
           justify-content: center;
 }
-
 .hero-section .hero-section-text {
   color: #fefefe;
-  text-shadow: 1px 1px 2px #0a0a0a;
+  text-shadow: 2px 2px 4px #0a0a0a;
   color: black;
 -webkit-text-fill-color: white; /* Will override color (regardless of order) */
 -webkit-text-stroke-width: 0.5px;
 -webkit-text-stroke-color: black;
 }
-
 .list-inline {
   padding: 0;
   margin-top: -15px;
   margin-left: 0px;
+  margin-right: 0px;
   list-style: none;
   text-align: center;
   margin-bottom: 0px;
@@ -73,7 +72,6 @@ img.gal-l {
     border-radius: 4px;
     padding: 5px;
     width: 545px;
-
 }
 img.gal-l:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
@@ -87,8 +85,6 @@ img.gal-s {
 img.gal-s:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
-
-
 .line:after
 {
     content:' ';
@@ -104,5 +100,9 @@ img.gal-s:hover {
   padding: 0px;
   color: grey;
   text-indent: 5px;
-
+}
+.nopad
+{
+  margin: 0px;
+  padding: 0px;
 }
