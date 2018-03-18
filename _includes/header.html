@@ -1,20 +1,25 @@
-<div class="navbar-fixed">
-<nav class="grey darken-4">
-  <div class="nav-wrapper container">
-    <a href="/index.html" class="brand-logo"><img src="/assets/small_logo2.svg"></a>
-    <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
-    <ul class="right hide-on-med-and-down">
-      <li><a href="/news/index.html">News</a></li>
-      <li><a href="/services/index.html">Services</a></li>
-      <li><a href="/gallery/index.html">Gallery</a></li>
-      <li><a href="/contact/index.html">Contact Us</a></li>
-    </ul>
-    <ul class="side-nav" id="mobile-demo">
-      <li><a href="/news/index.html">News</a></li>
-      <li><a href="/services/index.html">Services</a></li>
-      <li><a href="/gallery/index.html">Gallery</a></li>
-      <li><a href="/contact/index.html">Contact Us</a></li>
+<div class="hide-on-med-and-down">
+  <nav class="grey darken-4">
+    <div class="nav-wrapper container">
+      <a href="{{ site.baseurl }}/index.html" class="brand-logo"><img src="{{ site.baseurl }}/assets/small_logo2.svg"></a>
+    <ul class="right">
+      <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
+      <li><a href="{{ site.baseurl }}/news/index.html">News</a></li>
+      <li><a href="{{ site.baseurl }}/services/index.html">Services</a></li>
+      <li><a href="{{ site.baseurl }}/gallery/index.html">Gallery</a></li>
+      <li><a href="{{ site.baseurl }}/about/index.html">About</a></li>
     </ul>
   </div>
-</nav>
+  </nav>
+</div>
+
+<div class="grey darken-4 hide-on-large-only">
+  <center><a href="{{ site.baseurl }}/index.html"><img src="{{ site.baseurl }}/assets/small_logo2.svg" style="width:180px"></a></center>
+  <ul class="list-inline">
+    <li><a class="white-text" href="{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a class="white-text" href="{{ site.baseurl }}/news/index.html">News</a></li>
+    <li><a class="white-text" href="{{ site.baseurl }}/services/index.html">Services</a></li>
+    <li><a class="white-text" href="{{ site.baseurl }}/gallery/index.html">Gallery</a></li>
+    <li><a class="white-text" href="{{ site.baseurl }}/about/index.html">About</a></li>
+  </ul>
 </div>
