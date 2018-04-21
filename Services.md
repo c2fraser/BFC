@@ -26,5 +26,5 @@ permalink: /services/
   We offer backhoe, small excavator and dump truck rentals for all of your landscaping and yard renovations needs. We supply and install Armour Stone retaining walls and steps to add a bold and dramatic feature to your landscape.</div>
   <div class="col s12 m12 l4" style="max-width: 400px; padding-top: 30px;"><img src="{{ site.baseurl }}/images//services.jpg" class="responsive-img">
   <h6 class="line" style="font-weight: bold;">Windows and Doors</h6>
-  <a class="a-line" href="http://kvcustomwd.com/">KV Custom Windows and Doors.</a></div>
+   We are an authorized dealer for <a class="a-line" href="http://kvcustomwd.com/">KV Custom Windows and Doors.</a>. KV is a dynamic and modern  manufacturer with the flexibility to fully customize your order. We offer windows and doors for new construction as well as replacement services for existing homes or cottages.
 </div><hr class="style17">
