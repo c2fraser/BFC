@@ -15,31 +15,31 @@ permalink: /gallery/
 	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_1874.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_1874_th.jpg" class="responsive-img gal-l"></a></div><BR>
 
 	<div class="col s12 m6 l6" style="max-width: 360px;">
-	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_0344.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_0344_th.JPG" class="responsive-img gal-l"></a></div>
+	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_0344.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_0344_th.jpg" class="responsive-img gal-l"></a></div>
 
 	<div class="col s12 m6 l6" style="max-width: 360px;">
-	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_2944.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_2944_th.JPG" class="responsive-img gal-l"></a></div>
+	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_2944.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_2944_th.jpg" class="responsive-img gal-l"></a></div>
 
 	<div class="col s12 m6 l6" style="max-width: 360px;">
-	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_0579.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_0579_th.JPG" class="responsive-img gal-l"></a></div>
+	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_0579.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_0579_th.jpg" class="responsive-img gal-l"></a></div>
 
 	<div class="col s12 m6 l6" style="max-width: 360px;">
 	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_1120.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_1120_th.jpg" class="responsive-img gal-l"></a></div>
 
 	<div class="col s12 m6 l6" style="max-width: 360px;">
-	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_0351.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_0351_th.JPG" class="responsive-img gal-l"></a></div>
+	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_0351.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_0351_th.jpg" class="responsive-img gal-l"></a></div>
 
 	<div class="col s12 m6 l6" style="max-width: 360px;">
-	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_0856.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_0856_th.JPG" class="responsive-img gal-l"></a></div>
+	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_0856.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_0856_th.jpg" class="responsive-img gal-l"></a></div>
 
 	<div class="col s12 m6 l6" style="max-width: 360px;">
 	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_0938.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_0938_th.jpg" class="responsive-img gal-l"></a></div>
 
 	<div class="col s12 m6 l6" style="max-width: 360px;">
-	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_1456.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_1456_th.JPG" class="responsive-img gal-l"></a></div>
+	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_1456.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_1456_th.jpg" class="responsive-img gal-l"></a></div>
 
 	<div class="col s12 m6 l6" style="max-width: 360px;">
-	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_1655.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_1655_th.JPG" class="responsive-img gal-l"></a></div>
+	<a data-fancybox="gallery" data-caption="Bryan Fraser Contracting" href="{{ site.baseurl }}/images/Gallery//IMG_1655.jpg"><img src="{{ site.baseurl }}/images/Gallery/IMG_1655_th.jpg" class="responsive-img gal-l"></a></div>
 
 
 </div>
