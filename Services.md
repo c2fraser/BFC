@@ -10,7 +10,7 @@ permalink: /services/
   <div class="col s12 m12 l4" style="max-width: 400px; padding-top: 30px;"><img src="{{ site.baseurl }}/images//new.jpg" class="responsive-img">
   <h6 class="line" style="font-weight: bold;">New Homes</h6>
   From your dream to reality we have the experience and qualifications to build your home to exacting standards. We are a registered Tarion builder and use only local handpicked, experienced and insured sub contractors. We offer full construction management services for a stress free experience and your peace of mind.</div>
-  <div class="col s12 m12 l4" style="max-width: 400px; padding-top: 30px;"><img src="{{ site.baseurl }}/photos//IMG_0718.jpg" class="responsive-img">
+  <div class="col s12 m12 l4" style="max-width: 400px; padding-top: 30px;"><img src="{{ site.baseurl }}/images//IMG_0718.jpg" class="responsive-img">
   <h6 class="line" style="font-weight: bold;">Renovations</h6>
   Let us help you with your renovations, from hanging a door to a full blown tear off the roof and add a second story. With over 30 years experience we have done them all. </div>
   <div class="col s12 m12 l4" style="max-width: 400px; padding-top: 30px;"><img src="{{ site.baseurl }}/images//HPs.jpg" class="responsive-img">
@@ -24,7 +24,7 @@ permalink: /services/
   <div class="col s12 m12 l4" style="max-width: 400px; padding-top: 30px;"><img src="{{ site.baseurl }}/images//LS.jpg" class="responsive-img">
   <h6 class="line" style="font-weight: bold;">Heavy Equipment Rentals and Landscaping</h6>
   We offer backhoe, small excavator and dump truck rentals for all of your landscaping and yard renovations needs. We supply and install Armour Stone retaining walls and steps to add a bold and dramatic feature to your landscape.</div>
-  <div class="col s12 m12 l4" style="max-width: 400px; padding-top: 30px;"><img src="{{ site.baseurl }}/images//kv.jpg" class="responsive-img">
+  <div class="col s12 m12 l4" style="max-width: 400px; padding-top: 30px;"><img src="{{ site.baseurl }}/images//KV.jpg" class="responsive-img">
   <h6 class="line" style="font-weight: bold;">Windows and Doors</h6>
    We are an authorized dealer for <a class="a-line" href="http://kvcustomwd.com/">KV Custom Windows and Doors.</a> KV is a dynamic and modern  manufacturer with the flexibility to fully customize your order. We offer windows and doors for new construction as well as replacement services for existing homes or cottages.
 </div><hr class="style17">
