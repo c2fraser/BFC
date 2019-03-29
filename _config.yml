@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 google_maps_javascript_api_key: "AIzaSyCgO05oTCCK6h3xw8BqZgQjqg5BU1pPn-s"
 
 baseurl: "/BFC"
-url: "https://c2fraser.github.io/"
+url: "http://www.bryanfrasercontracting.com"
 sass:
     style: compressed
 
