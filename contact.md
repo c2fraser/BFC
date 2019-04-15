@@ -16,7 +16,7 @@ permalink: /about/
   <li class="collection-item valign-wrapper">
   <i class="material-icons">print</i> 613-625-1069 <BR></li>
   <li class="collection-item valign-wrapper">
-  <i class="material-icons">email</i>frasercontracting@gmail.com</li>
+  <i class="material-icons">email</i>bryan@bryanfrasercontracting.com</li>
   </div>
   <div class="col s12 m6 l7">
   <BR>
